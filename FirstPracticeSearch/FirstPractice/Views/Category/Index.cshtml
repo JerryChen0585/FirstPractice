@@ -7,6 +7,7 @@
 <link href="~/Content/PagedList.css" rel="stylesheet" />
 <h2>產品分類資料</h2>
 <a href="~/Category/Insert"class="btn btn-primary">新增</a>
+
 <p>
     搜尋分類名稱:
     @using (Html.BeginForm())
@@ -15,6 +16,7 @@
         <button type="submit">GO!</button>
     }
 </p>
+@*<input type="text" autofocus="autofocus" />*@
 <table class="table table-bordered table-hover">
     <thead>
         <tr>
@@ -32,8 +34,10 @@
                 <td>@_category.CategoryID</td>
                 <td>@_category.CategoryName</td>
                 <td>@_category.Description</td>
-                <td><a href="~/Category/Delete/@_category.CategoryID" class="btn btn-danger">刪除</a></td>
+                @*<td><a href="~/Category/Delete/@_category.CategoryID" class="btn btn-danger">刪除</a></td>*@
+                <td>@Html.ActionLink("刪除", "Delete", "Category", new { id = @_category.CategoryID }, new { @class = "btn btn-danger ", onclick = "return confirm('確定刪除?')" })</td>
                 <td><a href="~/Category/Edit/@_category.CategoryID"class="btn btn-primary">編輯</a></td>
+                
             </tr>
             }
      
