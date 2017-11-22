@@ -1,0 +1,171 @@
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\ApplicationInsights.config
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\roslyn\csc.exe
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\FirstPractice.dll.config
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\FirstPractice.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\FirstPractice.pdb
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\System.Web.Webpages.Deployment.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\System.Web.Webpages.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\System.Web.Webpages.Razor.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\System.Web.Webpages.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\System.Web.Webpages.Deployment.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\System.Web.Webpages.Razor.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\obj\Debug\FirstPractice.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\obj\Debug\FirstPractice.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice\FirstPractice\obj\Debug\FirstPractice.pdb
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\ApplicationInsights.config
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\roslyn\csc.exe
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\FirstPractice.dll.config
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\FirstPractice.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\FirstPractice.pdb
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\EntityFramework.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\System.Web.Webpages.Deployment.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\System.Web.Webpages.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\System.Web.Webpages.Razor.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\EntityFramework.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\System.Web.Webpages.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\System.Web.Webpages.Deployment.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\System.Web.Webpages.Razor.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\obj\Debug\FirstPractice.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\obj\Debug\FirstPractice.dll
+C:\Users\user\Desktop\MVCHW\FirstPractice - 複製\FirstPractice\obj\Debug\FirstPractice.pdb
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\ApplicationInsights.config
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\roslyn\csc.exe
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\FirstPractice.dll.config
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\FirstPractice.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\FirstPractice.pdb
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\EntityFramework.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\System.Web.Webpages.Deployment.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\System.Web.Webpages.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\System.Web.Webpages.Razor.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\EntityFramework.xml
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\System.Web.Webpages.xml
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\System.Web.Webpages.Deployment.xml
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\System.Web.Webpages.Razor.xml
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\obj\Debug\FirstPractice.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\obj\Debug\FirstPractice.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\obj\Debug\FirstPractice.pdb
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\PagedList.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\PagedList.Mvc.dll
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\PagedList.xml
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\PagedList.Mvc.xml
+C:\Users\user\Desktop\MVCHW\FirstPracticeSearch\FirstPractice\bin\zh-Hant\EntityFramework.SqlServer.resources.dll

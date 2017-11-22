@@ -1,0 +1,44 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<FirstPractice.Models.Category>
+@{
+    ViewBag.Title = "產品分類資料";
+}
+<link href="~/Content/PagedList.css" rel="stylesheet" />
+<h2>產品分類資料</h2>
+<a href="~/Category/Insert"class="btn btn-primary">新增</a>
+<p>
+    搜尋分類名稱:
+    @using (Html.BeginForm())
+    {
+        @Html.TextBox("id")
+        <button type="submit">GO!</button>
+    }
+</p>
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>分類編號</th>
+            <th>分類名稱</th>
+            <th>描述</th>
+            <th>刪除</th>
+            <th>編輯</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var _category in Model)
+        {
+            <tr>
+                <td>@_category.CategoryID</td>
+                <td>@_category.CategoryName</td>
+                <td>@_category.Description</td>
+                <td><a href="~/Category/Delete/@_category.CategoryID" class="btn btn-danger">刪除</a></td>
+                <td><a href="~/Category/Edit/@_category.CategoryID"class="btn btn-primary">編輯</a></td>
+            </tr>
+            }
+     
+    </tbody>
+
+    <div class="text-center">@Html.PagedListPager(Model, i => Url.Action("Index", new { page = i, sortBy = Request["sortBy"] }), PagedListRenderOptions.ClassicPlusFirstAndLast)</div>
+</table>
+
